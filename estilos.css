@@ -1,0 +1,27 @@
+.container1{
+    background-color: #ff00bf;
+    width: 750px;
+    height: 500px;
+}
+.container1 .coloracao1{
+    background-color: #22003d;
+    width: 75%;
+    height: 75%;
+}
+.container1 .coloracao1 .coloracao2{
+    background-color: rgb(43, 255, 0);
+    color: yellow;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+    height: 50%;
+}
+.container2 {
+    background-color: rgb(0, 217, 255);
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+    font-weight: 1000;
+    height: 200px;
+    width: 300px;
+    
+}
